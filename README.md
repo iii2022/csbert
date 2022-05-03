@@ -4,6 +4,8 @@
 ```
 torch == 1.7.0
 nltk == 3.5
+pandas == 1.2.0
+spacy == 2.3.3
 ```
 
 ## Usage
