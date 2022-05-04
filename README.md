@@ -12,6 +12,7 @@ spacy == 2.3.3
 | Folder   |  Description  |
 |----|----|
 |[preprocess](./preprocess)| data preprocessing|
+|[feature-extraction](./feature_extraction)| feature extraction|
 |[pre-train](./pretrain)| pre-training common sense rescoring models|
 |[retrofit](./retrofit)| retorfit task|
 |[qagnn](./qagnn)| qagnn task|
